@@ -93,7 +93,7 @@ for (var i = 0; i < 3; i++) {
       final.style.display="none";
       initial.style.display="flex";
       message.innerHTML= "CHOOSE AGAIN TO PLAY FURTHER";
-    },3000);
+    },5000);
 
 
   });

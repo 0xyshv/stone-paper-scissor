@@ -38,8 +38,9 @@ h1{
 .images{
 
   border-radius: 30%;
-  width: 50%;
-  height: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: white;
   }
 
 .images:hover{
